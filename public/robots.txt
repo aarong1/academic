@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://academic-demo.netlify.app/sitemap.xml
+Sitemap: https://quirky-mirzakhani-76fdc1.netlify.app/sitemap.xml
