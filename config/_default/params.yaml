@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: M
+font_size: L
 
 # SEO
 
@@ -24,13 +24,13 @@ email: gormanaa@tcd.ie
 phone: '+44 7884 097 662'
 address:
   street: 
-  city: belfast
+  city: Belfast
   region: NI
   postcode: 
   country: UK
   country_code: 
 coordinates:
-  latitude: '53.4275'
+  latitude: '54.5275'
   longitude: '-7.1697'
 directions: 
 office_hours:
@@ -39,27 +39,27 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://twitter.com/AaronG14737961'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://keybase.io/aarong1'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
 main_menu:
   enable: true
   align: l
-  show_logo: false
-  show_language: false
+  show_logo: true
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -81,8 +81,8 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: 'https://github.com/aarong1/academic'
+  content_dir: 'public'
   repo_branch: main
   editable:
     page: false
@@ -100,11 +100,11 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is licensed under MIT open license'
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -143,7 +143,7 @@ search:
 map:
   provider: mapnik
   api_key: ''
-  zoom: 15
+  zoom: 10
 marketing:
   google_analytics: ''
   google_tag_manager: ''
